@@ -3,9 +3,9 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "thomson"
+name = "smale7"
 version = "0.1.0"
-description = "Thomson Problem"
+description = "Smale's 7th Problem"
 authors = [
     { name = "Tim-Henrik Buelles", email = "thbuelles@gmail.com" }
 ]
