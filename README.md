@@ -1,0 +1,2 @@
+# thomson
+Thomson Problem
