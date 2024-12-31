@@ -5,6 +5,10 @@ The Thomson Problem involves finding the minimum energy configuration of particl
 
 ---
 
+![Thomson Problem Visualization](assets/example.png)
+
+---
+
 ## Scope
 - PyTorch implementation of gradient-based solution
 - PyTorch implementation of normalizing flow solution

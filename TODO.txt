@@ -1,0 +1,3 @@
+- .gif for README
+- expand Description
+- add Goals with approx, interp, etc.
