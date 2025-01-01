@@ -11,16 +11,16 @@ def plot_sphere(ax):
     ax.plot_surface(x, y, z, color='c', alpha=0.1, edgecolor='k')
 
     # Set the axis limits
-    ax.set_xlim([-0.75, 0.75])
-    ax.set_ylim([-0.75, 0.75])
-    ax.set_zlim([-0.75, 0.75])
+    ax.set_xlim([-0.7, 0.7])
+    ax.set_ylim([-0.7, 0.7])
+    ax.set_zlim([-0.7, 0.7])
 
     # Adjust the aspect ratio and remove additional margins
     ax.set_box_aspect([1, 1, 1])
     ax.axis('off')  # Turn off axis lines for a cleaner view
 
     # Adjust subplot position to remove margins
-    ax.set_position([0.0, 0.0, 1.0, 1.0])
+    # ax.set_position([0.0, 0.0, 1.0, 1.0])
 
 
 def plot_thomson(ax, points, N):
